@@ -1,5 +1,6 @@
 # Define the two numbers
-number1 = 101
+number1 = 102
+
 number2 = 3
 
 # Add the numbers together
