@@ -1,7 +1,7 @@
 # Define the two numbers
-number1 = 300
+number1 = 300 it is figured
 
-number2 = 3
+number2 = 3 
 
 # Add the numbers together
 result = number1 + number2
