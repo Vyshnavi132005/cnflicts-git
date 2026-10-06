@@ -1,5 +1,5 @@
 # Define the two numbers
-number1 = 55
+number1 = 100
 number2 = 3
 
 # Add the numbers together
